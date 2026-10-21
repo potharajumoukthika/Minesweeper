@@ -1,7 +1,7 @@
 # Minesweeper
 A Python implementation of the classic Minesweeper game using Pygame and artificial intelligence.
 
-Features
+#Features
 
 Interactive Minesweeper gameplay.
 
@@ -9,7 +9,7 @@ AI knowledge representation using logical sentences.
 
 Safe cell identification and mine inference.
 
-Project Files
+#Project Files
 
 minesweeper.py — AI logic and knowledge representation.
 
